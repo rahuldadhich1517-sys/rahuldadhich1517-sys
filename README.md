@@ -1,6 +1,8 @@
-# 👋 Hey, I'm Rahul Dadhich
-
-### 🚀 Full-Stack Web Developer | React.js • Node.js • TypeScript • Azure
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="rahuldadhich1517-sys's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <p align="left">
   <a href="https://linkedin.com/in/rahul-dadhich-a40b67200">
